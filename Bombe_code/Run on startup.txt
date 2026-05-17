@@ -1,0 +1,4 @@
+sudo nano /home/raspberrypi/.bashrc
+
+echo Running at boot
+sudo python /home/raspberrypi/Desktop/Bombe_Hardware.py

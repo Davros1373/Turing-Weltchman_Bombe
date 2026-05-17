@@ -1,0 +1,14 @@
+Rotors: 1, 2, 3
+Reflector: B
+Test register: S
+Input voltage: I
+Drums: ZZC, ZZB, ZZJ, ZZE, ZZI, ZZA, ZZF, ZZC, ZZH, ZZL, ZZF, ZZC
+Connections:
+S: 1i, 7o, 8i, 11o, 12i
+A: 1o, 2i, 8o, 9i, 12o
+J: 2o, 3i
+I: 3o, 4i
+E: 4o, 5i
+D: 5o, 6i
+V: 6o, 7i, 10o, 11i
+X: 9o, 10i
